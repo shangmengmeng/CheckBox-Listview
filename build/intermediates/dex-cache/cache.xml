@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\studio\sdk1\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\Desktop\ListviewWithCheckbox-master\CheckBoxDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_8c3d42997b6b12da52b993c3562ef40e8b84ec22.jar" />
+    </item>
+
+</items>
